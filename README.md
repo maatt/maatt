@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @maatt
 - 🌱 I’m currently learning NodeJS 
-- 99% of my Repos are private
+- ⛔️ 99% of my Repos are private
